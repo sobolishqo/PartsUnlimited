@@ -1,6 +1,6 @@
 ﻿// Copyright (c) Microsoft. All rights reserved.
 // Licensed under the MIT license. See LICENSE file in the project root for full license information.
-
+// This is a test message written by A.Sobolev to test commits from VSCode to GitHub
 using Microsoft.EntityFrameworkCore;
 using NSubstitute;
 using System.Collections.Generic;
